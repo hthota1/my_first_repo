@@ -5,6 +5,7 @@
 
 
 # Project Title
+JELLY JELLY JELLY
 ## Data Overview
 This project used data from the titantic dataset to analyze survival rate. The data had 13 columns and 300 observations.
 
